@@ -9,6 +9,7 @@ gem 'sqlite3'
 
 gem "bootstrap-sass", ">= 2.1.1.0"
 gem "simple_form", ">= 2.0.4"
+gem 'warden'
 
 # Gems used only for assets and not required
 # in production environments by default.
