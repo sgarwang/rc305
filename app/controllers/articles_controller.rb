@@ -1,5 +1,5 @@
 class ArticlesController < ApplicationController
-  http_basic_authenticate_with :name => "hello", :password => "world"
+  # http_basic_authenticate_with :name => "hello", :password => "world"
 
   # GET /articles
   # GET /articles.json

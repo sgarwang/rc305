@@ -3,6 +3,7 @@ Rc305::Application.routes.draw do
 
   resources :articles
   resources :users
+  resources :sessions
 
 
   # The priority is based upon order of creation:
